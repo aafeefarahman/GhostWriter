@@ -39,10 +39,6 @@ The website is designed to feel personal, editorial, and focused on one thing:
 
 ---
 
-## Live Website
-
-👉 https://ghost-writer-nine.vercel.app/
-
 ---
 
 ## Getting Started

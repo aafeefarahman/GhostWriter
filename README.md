@@ -30,14 +30,14 @@ The website is designed to feel personal, editorial, and focused on one thing:
 
 ## Features
 
-- ✍️ Writing portfolio
-- 💼 Ghostwriting services
-- 👤 Personal branding
-- 📱 Responsive design
-- 📩 Client-focused contact section
-- ⚡ Fast and lightweight
+-  Writing portfolio
+-  Ghostwriting services
+-  Personal branding
+-  Responsive design
+-  Client-focused contact section
+-  Fast and lightweight
 
----
+
 
 ---
 
